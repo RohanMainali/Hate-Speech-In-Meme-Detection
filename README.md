@@ -1,4 +1,4 @@
-# 🧠 Multimodal Hate Speech Detection in Memes (Subtask A)
+# 🧠 Multimodal Hate Speech Detection in Memes
 
 This project tackles **Subtask A** of a shared task on hate speech detection, focusing on the **binary classification** of memes into `Hate` or `No Hate`. It leverages a **multimodal deep learning pipeline** integrating both **textual** and **visual** cues from meme images.
 
